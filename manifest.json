@@ -1,0 +1,12 @@
+{
+  "short_name": "Big Mac Donalds",
+  "icons": [
+    {
+      "src": "bmc.jpg",
+      "sizes": "392x392",
+      "type": "image/jpeg"
+    }
+  ]
+  "start_url": ".",
+  "display": "fullscreen"
+}
